@@ -37,6 +37,7 @@ The `data.json` file follows this structure:
 }
 ```
 **FIELD DESCRIPTIONS**
+
 **Zine Object**
 - id: Unique identifier for the zine
 - name: Display name of the zine
