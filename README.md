@@ -47,17 +47,20 @@ The `data.json` file follows this structure:
 - issues: Array of issue objects
 
 **Issue Object**
-id: Unique identifier for the issue
-title: Display title of the issue
-cover_image_url: URL to the issue's cover image
-link_url: URL where the issue can be viewed
-published_date: Publication date in YYYY-MM-DD format
+- id: Unique identifier for the issue
+- title: Display title of the issue
+- cover_image_url: URL to the issue's cover image
+- link_url: URL where the issue can be viewed
+- published_date: Publication date in YYYY-MM-DD format
 
 **DATA UPDATES**
+
 This repository contains curated content for the Zine Discovery app. While we're not accepting direct contributions at this time, if you know of a great digital zine that should be included, feel free to:
+
 1. Open an issue to suggest new zines
 2. Report any outdated or incorrect information
 3. Report broken links
+
 Future versions of the app will include features for community contributions.
 
 **LICENSE**
