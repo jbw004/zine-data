@@ -1,0 +1,92 @@
+{
+    "version": "1.0",
+    "last_updated": "2024-11-24",
+    "zines": [
+      {
+        "id": "riot_maiden",
+        "name": "Riot Maiden Zine",
+        "bio": "Riot Maiden Zine is a riot grrrl art and writing zine founded in 2021. Riot Maiden discusses feminism, punk rock, political/social/cultural issues, media (tv, books, movies), music, and art.",
+        "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-cover.png",
+        "instagram_url": "https://www.instagram.com/riotmaiden/",
+        "issues": [
+          {
+            "id": "issue-1",
+            "title": "Riot Maiden Zine Issue 1",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-1.png",
+            "link_url": "https://drive.google.com/file/d/1p-8xrAs9eL12wJnLA6odZJJz6DAtUqZD/view?usp=sharing",
+            "published_date": "2021-09-15"
+          },
+          {
+            "id": "issue-2",
+            "title": "Riot Maiden Zine Issue 2",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-2.png",
+            "link_url": "https://drive.google.com/file/d/1GBbcYYGpDMKK6NxY1xOYGRg8DIY3lE0l/view?usp=sharing",
+            "published_date": "2021-10-07"
+          },
+          {
+            "id": "issue-3",
+            "title": "Riot Maiden Zine Issue 3",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-3.png",
+            "link_url": "https://drive.google.com/file/d/1t-NCk-WnDPTqsWbmfmoAfdRhblfiPod6/view?usp=sharing",
+            "published_date": "2021-10-22"
+          },
+          {
+            "id": "issue-4",
+            "title": "Riot Maiden Zine Issue 4",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-4.png",
+            "link_url": "https://drive.google.com/file/d/1Gp_DjSMSiyY-YWn4jGpcHjzc6SV1Dm68/view?usp=sharing",
+            "published_date": "2022-01-08"
+          },
+          {
+            "id": "issue-5",
+            "title": "Riot Maiden Zine Issue 5",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-5.png",
+            "link_url": "https://drive.google.com/file/d/1_dSrPgh2q63vFSsObdn0WdzuMHr9vaD7/view?usp=sharing",
+            "published_date": "2022-04-11"
+          },
+          {
+            "id": "issue-6",
+            "title": "Riot Maiden Zine Issue 6",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-6.png",
+            "link_url": "https://drive.google.com/file/d/14zRFkSEbu5iOLs0IDEKQaKYizNy_yf3K/view?usp=sharing",
+            "published_date": "2022-06-30"
+          },
+          {
+            "id": "issue-7",
+            "title": "Eye Zine",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-7.png",
+            "link_url": "https://drive.google.com/file/d/1PWHf9kQVorNI9q2TkxpKjrWyXCQe09zX/view?usp=sharing",
+            "published_date": "2023-06-22"
+          },
+          {
+            "id": "issue-8",
+            "title": "Goth Zine",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-8.png",
+            "link_url": "https://drive.google.com/file/d/1E83vNqdSr-aGXbxAKtZgE3MYucQ-HAHo/view?usp=sharing",
+            "published_date": "2023-06-28"
+          },
+          {
+            "id": "issue-9",
+            "title": "Riot Maiden Art Zine",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-9.png",
+            "link_url": "https://drive.google.com/file/d/1--fdILapgvyt4FNl6ZmYFhuNbq55a23V/view?usp=sharing",
+            "published_date": "2023-08-07"
+          },
+          {
+            "id": "issue-10",
+            "title": "24 Hour Zine",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-10.png",
+            "link_url": "https://drive.google.com/file/d/1KNMCQSVGkuiwErcKAaaOJ3rKWaMTmA2t/view?usp=sharing",
+            "published_date": "2023-10-23"
+          },
+          {
+            "id": "issue-11",
+            "title": "Ha! Whatever Zine",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-11.png",
+            "link_url": "https://drive.google.com/file/d/1Qbxwq8Gv6tPfmfZ7ySvhjK3VnWkpS4VV/view?usp=sharing",
+            "published_date": "2024-07-31"
+          }
+        ]
+      }
+    ]
+  }
