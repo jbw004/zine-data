@@ -1,268 +1,268 @@
-  {
-    "version": "1.0",
-    "last_updated": "2024-11-24",
-    "zines": [
-      {
-        "id": "riot_maiden",
-        "name": "Riot Maiden Zine",
-        "bio": "Riot Maiden Zine is a riot grrrl art and writing zine founded in 2021. Riot Maiden discusses feminism, punk rock, political/social/cultural issues, media (tv, books, movies), music, and art.",
-        "cover_image_url": "riot_maiden-cover.png",
-        "instagram_url": "https://www.instagram.com/riotmaiden/",
-        "issues": [
-          {
-            "id": "issue-1",
-            "title": "Riot Maiden Zine Issue 1",
-            "cover_image_url": "riot_maiden-issue-1.png",
-            "link_url": "https://drive.google.com/file/d/1p-8xrAs9eL12wJnLA6odZJJz6DAtUqZD/view?usp=sharing",
-            "published_date": "2021-09-15"
-          },
-          {
-            "id": "issue-2",
-            "title": "Riot Maiden Zine Issue 2",
-            "cover_image_url": "riot_maiden-issue-2.png",
-            "link_url": "https://drive.google.com/file/d/1GBbcYYGpDMKK6NxY1xOYGRg8DIY3lE0l/view?usp=sharing",
-            "published_date": "2021-10-07"
-          },
-          {
-            "id": "issue-3",
-            "title": "Riot Maiden Zine Issue 3",
-            "cover_image_url": "riot_maiden-issue-3.png",
-            "link_url": "https://drive.google.com/file/d/1t-NCk-WnDPTqsWbmfmoAfdRhblfiPod6/view?usp=sharing",
-            "published_date": "2021-10-22"
-          },
-          {
-            "id": "issue-4",
-            "title": "Riot Maiden Zine Issue 4",
-            "cover_image_url": "riot_maiden-issue-4.png",
-            "link_url": "https://drive.google.com/file/d/1Gp_DjSMSiyY-YWn4jGpcHjzc6SV1Dm68/view?usp=sharingDesktop/Zines/Riot%20Maiden%20Zine%20Issue%204.pdf",
-            "published_date": "2022-01-08"
-          },
-          {
-            "id": "issue-5",
-            "title": "Riot Maiden Zine Issue 5",
-            "cover_image_url": "riot_maiden-issue-5.png",
-            "link_url": "https://drive.google.com/file/d/1_dSrPgh2q63vFSsObdn0WdzuMHr9vaD7/view?usp=sharing",
-            "published_date": "2022-04-11"
-          },
-          {
-            "id": "issue-6",
-            "title": "Riot Maiden Zine Issue 6",
-            "cover_image_url": "riot_maiden-issue-6.png",
-            "link_url": "https://drive.google.com/file/d/14zRFkSEbu5iOLs0IDEKQaKYizNy_yf3K/view?usp=sharing",
-            "published_date": "2022-06-30"
-          },
-          {
-            "id": "issue-7",
-            "title": "Eye Zine",
-            "cover_image_url": "riot_maiden-issue-7.png",
-            "link_url": "https://drive.google.com/file/d/1PWHf9kQVorNI9q2TkxpKjrWyXCQe09zX/view?usp=sharing",
-            "published_date": "2023-06-22"
-          },
-          {
-            "id": "issue-8",
-            "title": "Goth Zine",
-            "cover_image_url": "riot_maiden-issue-8.png",
-            "link_url": "https://drive.google.com/file/d/1E83vNqdSr-aGXbxAKtZgE3MYucQ-HAHo/view?usp=sharing",
-            "published_date": "2023-06-28"
-          },
-          {
-            "id": "issue-9",
-            "title": "Riot Maiden Art Zine",
-            "cover_image_url": "riot_maiden-issue-9.png",
-            "link_url": "https://drive.google.com/file/d/1--fdILapgvyt4FNl6ZmYFhuNbq55a23V/view?usp=sharing",
-            "published_date": "2023-08-07"
-          },
-          {
-            "id": "issue-10",
-            "title": "24 Hour Zine",
-            "cover_image_url": "riot_maiden-issue-10.png",
-            "link_url": "https://drive.google.com/file/d/1KNMCQSVGkuiwErcKAaaOJ3rKWaMTmA2t/view?usp=sharing",
-            "published_date": "2023-10-23"
-          },
-          {
-            "id": "issue-11",
-            "title": "Ha! Whatever Zine",
-            "cover_image_url": "riot_maiden-issue-11.png",
-            "link_url": "https://drive.google.com/file/d/1Qbxwq8Gv6tPfmfZ7ySvhjK3VnWkpS4VV/view?usp=sharing",
-            "published_date": "2024-07-31"
-          }
-        ]
-      },
-      {
-        "id": "played_out",
-        "name": "Played Out Zine",
-        "bio": "Mujeres Libres Press is a Kansas-based independent micropress for zines and chapbooks, founded in 2021. Their flagship publication is the Played Out zine series.",
-        "cover_image_url": "played_out-cover.png",
-        "instagram_url": "https://www.instagram.com/playedoutzine/",
-        "issues": [
-          {
-            "id": "issue-3",
-            "title": "PLAYED OUT no. 3",
-            "cover_image_url": "played_out-issue-3.png",
-            "link_url": "https://drive.google.com/file/d/1N9JJ7GEPSMkMFcJkt0QNwjllM92LvqBD/view",
-            "published_date": "2024-06-03"
-          },
-          {
-            "id": "issue-4",
-            "title": "PLAYED OUT no. 4",
-            "cover_image_url": "played_out-issue-4.png",
-            "link_url": "https://drive.google.com/file/d/1K40iLIgPLXD6Ros0SL1U6m1p5HdJ_K7Y/view",
-            "published_date": "2024-07-28"
-          }
-        ]
-      },
-      {
-        "id": "pink_disco",
-        "name": "Pink Disco Magazine",
-        "bio": "An arts and literature magazine dedicated to celebrating sexuality and the body.",
-        "cover_image_url": "pink_disco-cover.png",
-        "instagram_url": "https://www.instagram.com/pinkdiscomagazine/",
-        "issues": [
-          {
-            "id": "issue-1",
-            "title": "SPRING EQUINOX",
-            "cover_image_url": "pink_disco-issue-1.png",
-            "link_url": "https://www.pinkdiscomagazine.com/issue1",
-            "published_date": "2023-03-20"
-          },
-          {
-            "id": "issue-2",
-            "title": "HEAT",
-            "cover_image_url": "pink_disco-issue-2.png",
-            "link_url": "https://www.pinkdiscomagazine.com/issue2",
-            "published_date": "2023-06-21"
-          },
-          {
-            "id": "issue-3",
-            "title": "DARK ENCOUNTERS",
-            "cover_image_url": "pink_disco-issue-3.png",
-            "link_url": "https://www.pinkdiscomagazine.com/issue3",
-            "published_date": "2023-09-23"
-          },
-          {
-            "id": "issue-4",
-            "title": "SURPRISE!",
-            "cover_image_url": "pink_disco-issue-4.png",
-            "link_url": "https://www.pinkdiscomagazine.com/issue4",
-            "published_date": "2023-12-21"
-          },
-          {
-            "id": "issue-5",
-            "title": "THE LOVERS",
-            "cover_image_url": "pink_disco-issue-5.png",
-            "link_url": "https://www.pinkdiscomagazine.com/issue5",
-            "published_date": "2024-03-19"
-          },
-          {
-            "id": "issue-6",
-            "title": "THE SUN",
-            "cover_image_url": "pink_disco-issue-6.png",
-            "link_url": "https://www.pinkdiscomagazine.com/issue6",
-            "published_date": "2024-06-20"
-          },
-          {
-            "id": "issue-7",
-            "title": "THE MOON",
-            "cover_image_url": "pink_disco-issue-7.png",
-            "link_url": "https://www.pinkdiscomagazine.com/issue7",
-            "published_date": "2024-09-22"
-          }
-        ]
-      },
-      {
-        "id": "rabid_zines",
-        "name": "Rabid Zines",
-        "bio": "Scary zines made in Louisiana.",
-        "cover_image_url": "rabid_zines-cover.png",
-        "instagram_url": "https://www.instagram.com/rabid_zines/",
-        "issues": [
-          {
-            "id": "issue-1",
-            "title": "Vol. 1: Lift and Shatter",
-            "cover_image_url": "rabid_zines-issue-1.png",
-            "link_url": "https://ugc.production.linktr.ee/43b06129-fee4-41f4-9df3-3a731dae0fe2_FrontZine1Final.pdf",
-            "published_date": "2024-06-23"
-          }
-        ]
-      },
-      {
-        "id": "bangs_zine",
-        "name": "BANGS ZINE",
-        "bio": "Bangs is an independent literary zine written by Allison Bothley.",
-        "cover_image_url": "bangs_zine-cover.png",
-        "instagram_url": "https://www.instagram.com/bangs_zine/",
-        "issues": [
-          {
-            "id": "issue-2",
-            "title": "Ghosted",
-            "cover_image_url": "bangs_zine-issue-2.png",
-            "link_url": "https://issuu.com/bangszine/docs/bangs2.pptx",
-            "published_date": "2023-10-27"
-          },
-          {
-            "id": "issue-3",
-            "title": "New Year, New You?",
-            "cover_image_url": "bangs_zine-issue-3.png",
-            "link_url": "https://issuu.com/bangszine/docs/bangs_number_3_new_year_new_you.pptx",
-            "published_date": "2024-02-13"
-          },
-          {
-            "id": "issue-4",
-            "title": "Oh, Mama!",
-            "cover_image_url": "bangs_zine-issue-4.png",
-            "link_url": "https://issuu.com/bangszine/docs/bangs_zine_4.pptx",
-            "published_date": "2024-05-01"
-          },
-          {
-            "id": "issue-5",
-            "title": "The Body Issue",
-            "cover_image_url": "bangs_zine-issue-5.png",
-            "link_url": "https://issuu.com/bangszine/docs/bangs_5.pptx",
-            "published_date": "2024-08-05"
-          },
-          {
-            "id": "issue-6",
-            "title": "Woo Woo",
-            "cover_image_url": "bangs_zine-issue-6.png",
-            "link_url": "https://issuu.com/bangszine/docs/bangs_6.pptx",
-            "published_date": "2024-10-21"
-          }
-        ]
-      },
-      {
-        "id": "punk_sleepover",
-        "name": "Punk Sleepover",
-        "bio": "Punk Sleepover is about intersectional feminism, growing up as a teen, dealing with highschool, punk/riotgrrrl/90s culture, and much more!",
-        "cover_image_url": "punk_sleepover-cover.png",
-        "instagram_url": "https://www.instagram.com/sh3hz1l/",
-        "issues": [
-          {
-            "id": "issue-4",
-            "title": "No Time To Stay Silent",
-            "cover_image_url": "punk_sleepover-issue-4.png",
-            "link_url": "https://issuu.com/punksleepover/docs/punk_sleepover_4",
-            "published_date": "2022-10-24"
-          }
-        ]
+{
+  "version": "1.0",
+  "last_updated": "2024-11-24",
+  "zines": [
+    {
+      "id": "riot_maiden",
+      "name": "Riot Maiden Zine",
+      "bio": "Riot Maiden Zine is a riot grrrl art and writing zine founded in 2021. Riot Maiden discusses feminism, punk rock, political/social/cultural issues, media (tv, books, movies), music, and art.",
+      "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-cover.png",
+      "instagram_url": "https://www.instagram.com/riotmaiden/",
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "Riot Maiden Zine Issue 1",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-1.png",
+          "link_url": "https://drive.google.com/file/d/1p-8xrAs9eL12wJnLA6odZJJz6DAtUqZD/view?usp=sharing",
+          "published_date": "2021-09-15"
+        },
+        {
+          "id": "issue-2",
+          "title": "Riot Maiden Zine Issue 2",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-2.png",
+          "link_url": "https://drive.google.com/file/d/1GBbcYYGpDMKK6NxY1xOYGRg8DIY3lE0l/view?usp=sharing",
+          "published_date": "2021-10-07"
+        },
+        {
+          "id": "issue-3",
+          "title": "Riot Maiden Zine Issue 3",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-3.png",
+          "link_url": "https://drive.google.com/file/d/1t-NCk-WnDPTqsWbmfmoAfdRhblfiPod6/view?usp=sharing",
+          "published_date": "2021-10-22"
+        },
+        {
+          "id": "issue-4",
+          "title": "Riot Maiden Zine Issue 4",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-4.png",
+          "link_url": "https://drive.google.com/file/d/1Gp_DjSMSiyY-YWn4jGpcHjzc6SV1Dm68/view?usp=sharingDesktop/Zines/Riot%20Maiden%20Zine%20Issue%204.pdf",
+          "published_date": "2022-01-08"
+        },
+        {
+          "id": "issue-5",
+          "title": "Riot Maiden Zine Issue 5",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-5.png",
+          "link_url": "https://drive.google.com/file/d/1_dSrPgh2q63vFSsObdn0WdzuMHr9vaD7/view?usp=sharing",
+          "published_date": "2022-04-11"
+        },
+        {
+          "id": "issue-6",
+          "title": "Riot Maiden Zine Issue 6",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-6.png",
+          "link_url": "https://drive.google.com/file/d/14zRFkSEbu5iOLs0IDEKQaKYizNy_yf3K/view?usp=sharing",
+          "published_date": "2022-06-30"
+        },
+        {
+          "id": "issue-7",
+          "title": "Eye Zine",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-7.png",
+          "link_url": "https://drive.google.com/file/d/1PWHf9kQVorNI9q2TkxpKjrWyXCQe09zX/view?usp=sharing",
+          "published_date": "2023-06-22"
+        },
+        {
+          "id": "issue-8",
+          "title": "Goth Zine",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-8.png",
+          "link_url": "https://drive.google.com/file/d/1E83vNqdSr-aGXbxAKtZgE3MYucQ-HAHo/view?usp=sharing",
+          "published_date": "2023-06-28"
+        },
+        {
+          "id": "issue-9",
+          "title": "Riot Maiden Art Zine",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-9.png",
+          "link_url": "https://drive.google.com/file/d/1--fdILapgvyt4FNl6ZmYFhuNbq55a23V/view?usp=sharing",
+          "published_date": "2023-08-07"
+        },
+        {
+          "id": "issue-10",
+          "title": "24 Hour Zine",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-10.png",
+          "link_url": "https://drive.google.com/file/d/1KNMCQSVGkuiwErcKAaaOJ3rKWaMTmA2t/view?usp=sharing",
+          "published_date": "2023-10-23"
+        },
+        {
+          "id": "issue-11",
+          "title": "Ha! Whatever Zine",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/riot_maiden-issue-11.png",
+          "link_url": "https://drive.google.com/file/d/1Qbxwq8Gv6tPfmfZ7ySvhjK3VnWkpS4VV/view?usp=sharing",
+          "published_date": "2024-07-31"
+        }
+      ]
+    },
+    {
+      "id": "played_out",
+      "name": "Played Out Zine",
+      "bio": "Mujeres Libres Press is a Kansas-based independent micropress for zines and chapbooks, founded in 2021. Their flagship publication is the Played Out zine series.",
+      "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/played_out-cover.png",
+      "instagram_url": "https://www.instagram.com/playedoutzine/",
+      "issues": [
+        {
+          "id": "issue-3",
+          "title": "PLAYED OUT no. 3",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/played_out-issue-3.png",
+          "link_url": "https://drive.google.com/file/d/1N9JJ7GEPSMkMFcJkt0QNwjllM92LvqBD/view",
+          "published_date": "2024-06-03"
+        },
+        {
+          "id": "issue-4",
+          "title": "PLAYED OUT no. 4",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/played_out-issue-4.png",
+          "link_url": "https://drive.google.com/file/d/1K40iLIgPLXD6Ros0SL1U6m1p5HdJ_K7Y/view",
+          "published_date": "2024-07-28"
+        }
+      ]
+    },
+    {
+      "id": "pink_disco",
+      "name": "Pink Disco Magazine",
+      "bio": "An arts and literature magazine dedicated to celebrating sexuality and the body.",
+      "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-cover.png",
+      "instagram_url": "https://www.instagram.com/pinkdiscomagazine/",
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "SPRING EQUINOX",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-1.png",
+          "link_url": "https://www.pinkdiscomagazine.com/issue1",
+          "published_date": "2023-03-20"
+        },
+        {
+          "id": "issue-2",
+          "title": "HEAT",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-2.png",
+          "link_url": "https://www.pinkdiscomagazine.com/issue2",
+          "published_date": "2023-06-21"
+        },
+        {
+          "id": "issue-3",
+          "title": "DARK ENCOUNTERS",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-3.png",
+          "link_url": "https://www.pinkdiscomagazine.com/issue3",
+          "published_date": "2023-09-23"
+        },
+        {
+          "id": "issue-4",
+          "title": "SURPRISE!",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-4.png",
+          "link_url": "https://www.pinkdiscomagazine.com/issue4",
+          "published_date": "2023-12-21"
+        },
+        {
+          "id": "issue-5",
+          "title": "THE LOVERS",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-5.png",
+          "link_url": "https://www.pinkdiscomagazine.com/issue5",
+          "published_date": "2024-03-19"
+        },
+        {
+          "id": "issue-6",
+          "title": "THE SUN",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-6.png",
+          "link_url": "https://www.pinkdiscomagazine.com/issue6",
+          "published_date": "2024-06-20"
+        },
+        {
+          "id": "issue-7",
+          "title": "THE MOON",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-7.png",
+          "link_url": "https://www.pinkdiscomagazine.com/issue7",
+          "published_date": "2024-09-22"
+        }
+      ]
+    },
+    {
+      "id": "rabid_zines",
+      "name": "Rabid Zines",
+      "bio": "Scary zines made in Louisiana.",
+      "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/rabid_zines-cover.png",
+      "instagram_url": "https://www.instagram.com/rabid_zines/",
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "Vol. 1: Lift and Shatter",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/rabid_zines-issue-1.png",
+          "link_url": "https://ugc.production.linktr.ee/43b06129-fee4-41f4-9df3-3a731dae0fe2_FrontZine1Final.pdf",
+          "published_date": "2024-06-23"
+        }
+      ]
+    },
+    {
+      "id": "bangs_zine",
+      "name": "BANGS ZINE",
+      "bio": "Bangs is an independent literary zine written by Allison Bothley.",
+      "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/bangs_zine-cover.png",
+      "instagram_url": "https://www.instagram.com/bangs_zine/",
+      "issues": [
+        {
+          "id": "issue-2",
+          "title": "Ghosted",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/bangs_zine-issue-2.png",
+          "link_url": "https://issuu.com/bangszine/docs/bangs2.pptx",
+          "published_date": "2023-10-27"
+        },
+        {
+          "id": "issue-3",
+          "title": "New Year, New You?",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/bangs_zine-issue-3.png", 
+          "link_url": "https://issuu.com/bangszine/docs/bangs_number_3_new_year_new_you.pptx",
+          "published_date": "2024-02-13"
+        },
+        {
+          "id": "issue-4",
+          "title": "Oh, Mama!",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/bangs_zine-issue-4.png",
+          "link_url": "https://issuu.com/bangszine/docs/bangs_zine_4.pptx",
+          "published_date": "2024-05-01"
+        },
+        {
+          "id": "issue-5",
+          "title": "The Body Issue",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/bangs_zine-issue-5.png",
+          "link_url": "https://issuu.com/bangszine/docs/bangs_5.pptx",
+          "published_date": "2024-08-05"
+        },
+        {
+          "id": "issue-6",
+          "title": "Woo Woo",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/bangs_zine-issue-6.png",
+          "link_url": "https://issuu.com/bangszine/docs/bangs_6.pptx",
+          "published_date": "2024-10-21"
+        }
+      ]
+     },
+     {
+      "id": "punk_sleepover",
+      "name": "Punk Sleepover",
+      "bio": "Punk Sleepover is about intersectional feminism, growing up as a teen, dealing with highschool, punk/riotgrrrl/90s culture, and much more!",
+      "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/punk_sleepover-cover.png",
+      "instagram_url": "https://www.instagram.com/sh3hz1l/",
+      "issues": [
+        {
+          "id": "issue-4",
+          "title": "No Time To Stay Silent",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/punk_sleepover-issue-4.png",
+          "link_url": "https://issuu.com/punksleepover/docs/punk_sleepover_4",
+          "published_date": "2022-10-24"
+        }
+       ]
       },
       {
         "id": "duna_haller",
         "name": "DUNA HALLER",
         "bio": "Duna Torres Martin (she/they/fae) is a poet, writer, musician and collagist from Madrid, Spain",
-        "cover_image_url": "duna_haller-cover.png",
+        "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/duna_haller-cover.png",
         "instagram_url": "https://www.instagram.com/dunahaller/",
         "issues": [
           {
             "id": "issue-1",
             "title": "AGUA EN EL DESIERTO",
-            "cover_image_url": "duna_haller-issue-1.png",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/duna_haller-issue-1.png",
             "link_url": "https://dkemhji6i1k0x.cloudfront.net/000_clients/3016788/file/q20101aKRMzB6MzD.pdf",
             "published_date": "2019-02-18"
           },
           {
             "id": "issue-2",
             "title": "ZARZAL",
-            "cover_image_url": "duna_haller-issue-2.png",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/duna_haller-issue-2.png",
             "link_url": "https://dkemhji6i1k0x.cloudfront.net/000_clients/3016788/file/n20140CoynnuPJRM.pdf",
             "published_date": "2020-08-01"
           }
@@ -272,55 +272,55 @@
         "id": "pastel_serenity",
         "name": "Pastel Serenity",
         "bio": "Pastel Serenity is a quarterly online zine based in Mumbai, India. It is a platform for creatives from all over the world to come together and showcase their work in its themed issues.",
-        "cover_image_url": "pastel_serenity-cover.png",
+        "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-cover.png",
         "instagram_url": "https://www.instagram.com/pastelserenityzine/",
         "issues": [
           {
             "id": "issue-10",
             "title": "TOUR",
-            "cover_image_url": "pastel_serenity-issue-10.png",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-10.png",
             "link_url": "https://www.magcloud.com/browse/issue/2356039",
             "published_date": "2022-12-05"
           },
           {
             "id": "issue-11",
             "title": "Pastel Serenity Zine Issue 11",
-            "cover_image_url": "pastel_serenity-issue-11.png",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-11.png",
             "link_url": "https://www.magcloud.com/webviewer/2455023?isEmbedded=True",
             "published_date": "2023-06-05"
           },
           {
             "id": "issue-12",
             "title": "Pastel Serenity Zine Issue 12",
-            "cover_image_url": "pastel_serenity-issue-12.png",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-12.png",
             "link_url": "https://www.magcloud.com/webviewer/2590241?isEmbedded=True",
             "published_date": "2023-09-05"
           },
           {
             "id": "issue-13",
             "title": "CRUSH",
-            "cover_image_url": "pastel_serenity-issue-13.png",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-13.png",
             "link_url": "https://www.magcloud.com/webviewer/2664618?isEmbedded=True",
             "published_date": "2023-12-04"
           },
           {
             "id": "issue-14",
             "title": "Pastel Serenity Zine Issue 14",
-            "cover_image_url": "pastel_serenity-issue-14.png",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-14.png",
             "link_url": "https://www.magcloud.com/webviewer/2733827?isEmbedded=True",
             "published_date": "2024-03-06"
           },
           {
             "id": "issue-15",
             "title": "Pastel Serenity Zine Issue 15",
-            "cover_image_url": "pastel_serenity-issue-15.png",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-15.png",
             "link_url": "https://www.magcloud.com/webviewer/2832573?isEmbedded=True",
             "published_date": "2024-06-04"
           },
           {
             "id": "issue-16",
             "title": "Pastel Serenity Zine Issue 16",
-            "cover_image_url": "pastel_serenity-issue-16.png",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-16.png",
             "link_url": "https://www.magcloud.com/webviewer/2896966?isEmbedded=True",
             "published_date": "2024-09-12"
           }
