@@ -265,13 +265,6 @@
             "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/duna_haller-issue-2.png",
             "link_url": "https://dkemhji6i1k0x.cloudfront.net/000_clients/3016788/file/n20140CoynnuPJRM.pdf",
             "published_date": "2020-08-01"
-          },
-          {
-            "id": "issue-3",
-            "title": "TEST",
-            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/duna_haller-issue-2.png",
-            "link_url": "https://dkemhji6i1k0x.cloudfront.net/000_clients/3016788/file/n20140CoynnuPJRM.pdf",
-            "published_date": "2021-02-01"
           }
         ]
       },
