@@ -173,6 +173,13 @@
           "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-7.png",
           "link_url": "https://www.pinkdiscomagazine.com/issue7",
           "published_date": "2024-10-22"
+        },
+        {
+          "id": "issue-9",
+          "title": "TEST3",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-6.png",
+          "link_url": "https://www.pinkdiscomagazine.com/issue6",
+          "published_date": "2024-10-25"
         }
       ]
     },
