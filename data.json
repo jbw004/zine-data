@@ -217,6 +217,13 @@
           "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/rabid_zines-issue-1.png",
           "link_url": "https://ugc.production.linktr.ee/43b06129-fee4-41f4-9df3-3a731dae0fe2_FrontZine1Final.pdf",
           "published_date": "2024-06-23"
+        },
+        {
+          "id": "issue-2",
+          "title": "TEST8",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/rabid_zines-issue-1.png",
+          "link_url": "https://ugc.production.linktr.ee/43b06129-fee4-41f4-9df3-3a731dae0fe2_FrontZine1Final.pdf",
+          "published_date": "2024-09-23"
         }
       ]
     },
