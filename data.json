@@ -358,6 +358,13 @@
             "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-16.png",
             "link_url": "https://www.magcloud.com/webviewer/2896966?isEmbedded=True",
             "published_date": "2024-09-12"
+          },
+          {
+            "id": "issue-17",
+            "title": "TEST6",
+            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-16.png",
+            "link_url": "https://www.magcloud.com/webviewer/2896966?isEmbedded=True",
+            "published_date": "2024-10-12"
           }
         ]
       }
