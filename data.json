@@ -108,6 +108,13 @@
           "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/played_out-issue-4.png",
           "link_url": "https://drive.google.com/file/d/1K40iLIgPLXD6Ros0SL1U6m1p5HdJ_K7Y/view",
           "published_date": "2024-07-28"
+        },
+        {
+          "id": "issue-5",
+          "title": "TEST7",
+          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/played_out-issue-4.png",
+          "link_url": "https://drive.google.com/file/d/1K40iLIgPLXD6Ros0SL1U6m1p5HdJ_K7Y/view",
+          "published_date": "2024-10-28"
         }
       ]
     },
