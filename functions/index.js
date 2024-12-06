@@ -7,25 +7,23 @@ exports.onNewIssueAdded = functions.firestore
     .onCreate(async (snap, context) => {
       const zineId = context.params.zineId;
       const issueId = context.params.issueId;
+      const db = admin.firestore();
 
       try {
-        console.log("Starting function for zineId:", zineId);
+        console.log(`Processing new issue ${issueId} for zine ${zineId}`);
 
         // Get the zine document
-        const zineDoc = await admin.firestore()
-            .collection("zines")
-            .doc(zineId)
-            .get();
+        const zineDoc = await db.collection("zines").doc(zineId).get();
 
         if (!zineDoc.exists) {
-          console.log("No zine document found");
+          console.error(`Zine document ${zineId} not found`);
           return null;
         }
 
         const zineName = zineDoc.data().name;
         const topic = `zine_${zineId}`;
 
-        // 1. Send the notification
+        // Send notification
         const message = {
           notification: {
             title: "New Zines!",
@@ -39,30 +37,54 @@ exports.onNewIssueAdded = functions.firestore
           topic: topic,
         };
 
-        await admin.messaging().send(message);
-        console.log(`Notification sent to topic: ${topic}`);
+        try {
+          await admin.messaging().send(message);
+          console.log(`Successfully sent notification to topic: ${topic}`);
+        } catch (error) {
+          console.error("Error sending notification:", error);
+          // Continue execution even if notification fails
+        }
 
-        // 2. Update all followers' unread status
-        const followersSnapshot = await admin.firestore()
-            .collectionGroup("followed_zines")
-            .where("zineName", "==", zineName)
-            .get();
+        // Modified query to include sorting
+        console.log(`Finding followers for zine: ${zineId}`);
 
-        const batch = admin.firestore().batch();
+        const followersQuery = db.collectionGroup("followed_zines")
+            .where("zineId", "==", zineId)
+            .orderBy("lastNotificationAt", "desc"); // Added this line
+
+        const followersSnapshot = await followersQuery.get();
+        console.log(`Found ${followersSnapshot.size} followers`);
+
+        if (followersSnapshot.empty) {
+          console.log("No followers found to update");
+          return null;
+        }
+
+        // Update all follower documents
+        const batch = db.batch();
+        const timestamp = admin.firestore.FieldValue.serverTimestamp();
+
         followersSnapshot.docs.forEach((doc) => {
+          console.log(`Updating follower document: ${doc.ref.path}`);
           batch.update(doc.ref, {
+            lastNotificationAt: timestamp,
             hasUnreadIssues: true,
           });
         });
 
         await batch.commit();
         console.log(
-            `Updated unread status for ${followersSnapshot.size} followers`,
+            `Successfully updated ${followersSnapshot.size} follower documents`,
         );
 
         return null;
       } catch (error) {
-        console.error("Error:", error);
-        return null;
+        console.error("Function failed:", error);
+        if (error.code === 9) { // FAILED_PRECONDITION
+          console.error(
+              "Indexes possibly missing. Ensure index created.",
+          );
+        }
+        throw error; // Rethrowing to ensure proper error reporting
       }
     });
