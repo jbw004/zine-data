@@ -108,13 +108,6 @@
           "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/played_out-issue-4.png",
           "link_url": "https://drive.google.com/file/d/1K40iLIgPLXD6Ros0SL1U6m1p5HdJ_K7Y/view",
           "published_date": "2024-07-28"
-        },
-        {
-          "id": "issue-5",
-          "title": "TEST7",
-          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/played_out-issue-4.png",
-          "link_url": "https://drive.google.com/file/d/1K40iLIgPLXD6Ros0SL1U6m1p5HdJ_K7Y/view",
-          "published_date": "2024-10-28"
         }
       ]
     },
@@ -173,34 +166,6 @@
           "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-7.png",
           "link_url": "https://www.pinkdiscomagazine.com/issue7",
           "published_date": "2024-09-22"
-        },
-        {
-          "id": "issue-8",
-          "title": "TEST2",
-          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-7.png",
-          "link_url": "https://www.pinkdiscomagazine.com/issue7",
-          "published_date": "2024-10-22"
-        },
-        {
-          "id": "issue-9",
-          "title": "TEST3",
-          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-6.png",
-          "link_url": "https://www.pinkdiscomagazine.com/issue6",
-          "published_date": "2024-10-25"
-        },
-        {
-          "id": "issue-10",
-          "title": "TEST4",
-          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-5.png",
-          "link_url": "https://www.pinkdiscomagazine.com/issue5",
-          "published_date": "2024-10-29"
-        },
-        {
-          "id": "issue-11",
-          "title": "TEST5",
-          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pink_disco-issue-6.png",
-          "link_url": "https://www.pinkdiscomagazine.com/issue6",
-          "published_date": "2024-10-30"
         }
       ]
     },
@@ -217,13 +182,6 @@
           "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/rabid_zines-issue-1.png",
           "link_url": "https://ugc.production.linktr.ee/43b06129-fee4-41f4-9df3-3a731dae0fe2_FrontZine1Final.pdf",
           "published_date": "2024-06-23"
-        },
-        {
-          "id": "issue-2",
-          "title": "TEST8",
-          "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/rabid_zines-issue-1.png",
-          "link_url": "https://ugc.production.linktr.ee/43b06129-fee4-41f4-9df3-3a731dae0fe2_FrontZine1Final.pdf",
-          "published_date": "2024-09-23"
         }
       ]
     },
@@ -307,13 +265,6 @@
             "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/duna_haller-issue-2.png",
             "link_url": "https://dkemhji6i1k0x.cloudfront.net/000_clients/3016788/file/n20140CoynnuPJRM.pdf",
             "published_date": "2020-08-01"
-          },
-          {
-            "id": "issue-3",
-            "title": "TEST",
-            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/duna_haller-issue-2.png",
-            "link_url": "https://dkemhji6i1k0x.cloudfront.net/000_clients/3016788/file/n20140CoynnuPJRM.pdf",
-            "published_date": "2021-08-01"
           }
         ]
       },
@@ -372,13 +323,6 @@
             "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-16.png",
             "link_url": "https://www.magcloud.com/webviewer/2896966?isEmbedded=True",
             "published_date": "2024-09-12"
-          },
-          {
-            "id": "issue-17",
-            "title": "TEST6",
-            "cover_image_url": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/pastel_serenity-issue-16.png",
-            "link_url": "https://www.magcloud.com/webviewer/2896966?isEmbedded=True",
-            "published_date": "2024-10-12"
           }
         ]
       }
