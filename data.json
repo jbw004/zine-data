@@ -1,6 +1,32 @@
 {
   "version": "1.0",
-  "last_updated": "2024-11-24",
+  "last_updated": "2024-12-09",
+  "stickers": [
+    {
+      "id": "heart_pin",
+      "name": "Heart Pin",
+      "imageUrl": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/heart_sticker.png",
+      "category": "hearts",
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "headbanger",
+      "name": "Headbanger",
+      "imageUrl": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/music_sticker.png",
+      "category": "music",
+      "width": 50,
+      "height": 45
+    },
+    {
+      "id": "emo",
+      "name": "Emo",
+      "imageUrl": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/sad_sticker.png",
+      "category": "emotional",
+      "width": 55,
+      "height": 65
+    }
+  ],
   "zines": [
     {
       "id": "riot_maiden",
