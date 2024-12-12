@@ -1,28 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2024-12-10",
-  "canvases": [
-    {
-      "id": "template_1",
-      "name": "Template 1",
-      "imageUrl": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/template_1.png"
-    },
-    {
-      "id": "template_2",
-      "name": "Template 2",
-      "imageUrl": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/template_2.png"
-    },
-    {
-      "id": "template_3",
-      "name": "Template 3",
-      "imageUrl": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/template_3.png"
-    },
-    {
-      "id": "template_4",
-      "name": "Template 4",
-      "imageUrl": "https://raw.githubusercontent.com/jbw004/zine-data/main/images/template_4.png"
-    }
-  ],
+  "last_updated": "2024-11-24",
   "zines": [
     {
       "id": "riot_maiden",
